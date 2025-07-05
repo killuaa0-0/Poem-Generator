@@ -59,4 +59,4 @@ MIT
 
 ## Contact
 Pranav Karra - pranavkarra2006@gmail.com 
-Project Link: https://github.com/killuaa0-0/Poem-Generator/tree/main
+Project Link: https://github.com/killuaa0-0/Poem-Generator
