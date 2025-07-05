@@ -58,5 +58,5 @@ Pull requests are welcome! For major changes, please open an issue first.
 MIT
 
 ## Contact
-Your Name - your.email@example.com  
-Project Link: https://github.com/yourusername/hindi-poetry-generator
+Pranav Karra - pranavkarra2006@gmail.com 
+Project Link: https://github.com/killuaa0-0/Poem-Generator/tree/main
